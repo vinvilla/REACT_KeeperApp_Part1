@@ -1,0 +1,9 @@
+1. go to https://reactjs.org/docs/create-a-new-react-app.html
+
+2. To create a project, run:
+go to the folder where you want your project to be created
+   npx create-react-app my-app
+   cd my-app
+   npm start
+
+3.
